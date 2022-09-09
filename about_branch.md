@@ -16,3 +16,29 @@ Branch(브랜치)
 
 브랜치에서 뻗어 나오는 새 브랜치를 만드는 것을 분기한다. 라고 함.
 분기했던 브랜치를 master브랜치에 합치는 것을 병합(merge)한다.라고 함.
+
+
+
+✔✔관련 명령어
+
+git branch {} : 새로운 브랜치 {}를 만듭니다.
+
+git checkout {} : {}브랜치로 체크아웃 합니다.
+
+git log --online : 커밋 로그에서 한 줄에 한 커밋씩 표시합니다.
+
+git add. : 수정한 파일 전체을 스테이지에 올립니다.
+
+git log --branches --graph : 커밋 로그에 각 브랜치의 커밋을 그래프로 표시합니다.
+
+git merge {} :  {}브랜치를 master 브랜치에 병합합니다.
+
+git cat {} : {}터미널 창에서 확인
+
+git init {} : {} 디렉터리를 만드는 동시에 지역 저장소로 만듭니다.
+
+git branch -d {} :브런치 삭제
+
+git stash 또는 git stash save : 작업 트리의 수정 내용을 따로 보관해서 감춥니다.
+
+git stash pop : 따로 보관했던 수정 내용을 꺼내옵니다.
