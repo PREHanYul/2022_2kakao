@@ -32,7 +32,8 @@ ip(Internet Protocol, 인터넷에서 사용하는 주소)내에서
 
 사용하려면 다른 서버를 끈다음에 사용해야한다.
 
-![image-20220919233722757](C:\Users\LG\AppData\Roaming\Typora\typora-user-images\image-20220919233722757.png)
+![image](https://user-images.githubusercontent.com/108383234/191441289-d473a73f-3a6e-45d6-83f8-2430c9a6aa55.png)
+
 
 잘 알려진 포트 번호
 
