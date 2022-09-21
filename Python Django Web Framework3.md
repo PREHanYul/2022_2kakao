@@ -37,11 +37,13 @@ DB에 접근한다.
 
 
 ###### (4)app만들기
+![앱만들기](https://user-images.githubusercontent.com/108383234/191439257-df0a0959-3c6c-43c3-b5dd-bf1f68cfb58f.JPG)
 
-![](C:\Users\LG\Documents\제대 컴공 3학년 2학기\기초웹개발론\앱만들기.JPG)
+
 
 djaogo -admin startapp [이름] 하면
 
-![](C:\Users\LG\Documents\제대 컴공 3학년 2학기\기초웹개발론\앱폴더생성된거.JPG)
+![앱폴더생성된거](https://user-images.githubusercontent.com/108383234/191439318-c80f502e-a358-4c5b-9bf6-84b7d8761318.JPG)
+
 
 이렇게 파일이 생성된다.
